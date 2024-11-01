@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-03-17T11:48:01.239837+00:00</Created>
+    <LastChange>2021-03-17T11:48:01.239859+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="FRAN_0056_11827_L-1.jpg" imageWidth="2891" imageHeight="4342">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_d70cb211" >
+        <Coords points="148,343 141,282 210,282 224,347 159,365"/>
+        <Baseline points="149,344 231,329"/>
+        <TextEquiv>
+          <Unicode>⠊Nos</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f4fb2a2d" >
+        <Coords points="282,332 286,256 431,253 434,412 380,383 289,412"/>
+        <Baseline points="286,335 442,330"/>
+        <TextEquiv>
+          <Unicode>⠊DATES</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b2e4968b" >
+        <Coords points="163,416 166,361 213,376 224,412 170,437"/>
+        <Baseline points="164,418 227,413"/>
+        <TextEquiv>
+          <Unicode>⠊DU</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9a5a3040" >
+        <Coords points="326,405 329,369 347,365 376,376 387,401 380,437 333,448"/>
+        <Baseline points="327,408 391,405"/>
+        <TextEquiv>
+          <Unicode>⠊DES</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_65b9847d" >
+        <Coords points="539,322 543,289 862,289 898,267 1018,274 1028,322 1018,350 543,340"/>
+        <Baseline points="541,323 568,318 1029,325"/>
+        <TextEquiv>
+          <Unicode>⠊NATURE ⠊ET ⠊ESPÈCE</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6df4cc40" >
+        <Coords points="119,495 123,459 163,455 206,416 253,401 264,535 220,524 130,542"/>
+        <Baseline points="123,499 270,488"/>
+        <TextEquiv>
+          <Unicode>⠊RÉPERTOIRE</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_eb882974" >
+        <Coords points="496,502 503,459 536,455 713,474 720,502 713,571 597,582 572,568 503,586"/>
+        <Baseline points="499,506 724,506"/>
+        <TextEquiv>
+          <Unicode>⠊EN ⠊BREVETS</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6ff38e84" >
+        <Coords points="641,379 670,358 764,350 844,369 862,358 887,387 833,408 644,408"/>
+        <Baseline points="644,383 888,390"/>
+        <TextEquiv>
+          <Unicode>⠊DES ⠊ACTES:</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b7c91464" >
+        <Coords points="1166,318 1173,285 1202,274 1260,289 1347,289 1369,274 1470,289 1543,274 1583,289 1637,274 1706,274 1724,289 1742,274 1782,289 2209,278 2253,289 2260,318 2253,340 2188,354 2101,340 2061,354 1934,340 1851,354 1738,354 1720,340 1644,340 1626,354 1452,354 1412,340 1173,354"/>
+        <Baseline points="1170,322 2263,322"/>
+        <TextEquiv>
+          <Unicode>⠊NOMS, ⠊PRÉNOMS ⠊ET ⠊DOMICILES ⠊DES ⠊PARTIES</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e7f34c9d" >
+        <Coords points="300,488 304,416 405,434 413,636 311,647"/>
+        <Baseline points="301,491 418,488"/>
+        <TextEquiv>
+          <Unicode>⠊ACTES</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_640ac033" >
+        <Coords points="826,506 833,470 1007,470 1050,477 1061,502 1046,524 829,521"/>
+        <Baseline points="827,509 1062,506"/>
+        <TextEquiv>
+          <Unicode>⠊EN ⠊MINUTES</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_60a37bc2" >
+        <Coords points="1282,474 1286,445 1532,445 1568,426 1615,441 1673,412 1851,412 1865,426 1956,412 2086,445 2097,477 2086,502 1978,488 1862,488 1836,502 1702,502 1673,488 1659,502 1579,488 1478,502 1286,492"/>
+        <Baseline points="1286,477 2100,480"/>
+        <TextEquiv>
+          <Unicode>⠊INDICATIONS, ⠊SITUATIONS ⠊ET ⠊PRIX ⠊DES ⠊BIENS</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b2ae5cab" >
+        <Coords points="2296,387 2304,343 2626,343 2633,387 2575,416 2510,416 2492,401 2467,416 2304,405"/>
+        <Baseline points="2300,390 2637,390"/>
+        <TextEquiv>
+          <Unicode>⠊l&#39;Enregistrement.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_44ce569f" >
+        <Coords points="2347,289 2354,249 2438,260 2456,246 2510,260 2568,253 2593,289 2572,314 2354,311"/>
+        <Baseline points="2351,293 2495,293 2595,290"/>
+        <TextEquiv>
+          <Unicode>⠊RELATION</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c6a55d6b" >
+        <Coords points="2434,340 2449,318 2485,318 2492,340 2441,350"/>
+        <Baseline points="2436,342 2493,342"/>
+        <TextEquiv>
+          <Unicode>⠊DE</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_542cbd16" >
+        <Coords points="2282,495 2289,474 2318,466 2394,470 2401,495 2394,524 2289,506"/>
+        <Baseline points="2285,499 2405,499"/>
+        <TextEquiv>
+          <Unicode>⠊DATES</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bfd89002" >
+        <Coords points="2449,495 2452,459 2561,452 2564,517 2456,521"/>
+        <Baseline points="2452,499 2575,492"/>
+        <TextEquiv>
+          <Unicode>⠊DROITS</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>
